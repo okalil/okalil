@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oi, pessoal! 👋
 
 <!--
 **okalil/okalil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Meu nome é Andrew Kalil, e eu atualmente estudo Desenvolvimento Front-end
+
+# As tecnologias que utilizo são HTML5, CSS3, Javascript, React JS e Next JS.
+
+# Eu pretendo me apronfundar na área, e futuramente aprender Backend e Ciência de Dados. 
