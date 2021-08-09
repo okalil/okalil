@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Meu nome é Andrew Kalil, e eu atualmente estudo Desenvolvimento Front-end
+- Meu nome é Andrew Kalil, e eu atualmente estudo Desenvolvimento Web e Redes de Computadores.
 
 - As tecnologias que utilizo são HTML5, CSS3, Javascript, React JS, Next JS, Node JS, Typescript
 - Estou sempre em busca de crescimento e de novos desafios!. 
