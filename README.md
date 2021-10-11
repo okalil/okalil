@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - Meu nome é Andrew Kalil, e eu atualmente estudo Desenvolvimento Web e Redes de Computadores.
 
-- As tecnologias que utilizo são HTML5, CSS3, Javascript, React JS, Next JS, Node JS, Typescript
+- As tecnologias que utilizo são: HTML5, CSS3, JavaScript, TypeScript, Sass, Tailwind CSS, Vue.js, React.js, Next.js, GraphQL.
 - Estou sempre em busca de crescimento e de novos desafios!. 
 - Linkedin: [Andrew Magalhães](https://www.linkedin.com/in/andrew-magalh%C3%A3es-2b3781210/)
 
