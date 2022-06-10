@@ -19,7 +19,11 @@ Here are some ideas to get you started:
 
 - Tecnologias que utilizo:
   - Linguagens: **JavaScript**, **TypeScript**, **CSS**, **HTML** (secundárias: **Java**, **Swift**, **Python**);
-  - Bibiotecas: **React.js**, **React Native**, **Next.js**, **Vue.js**, **Styled Components**, **Native Base**, **Tailwind CSS**, **Chakra UI**, **Sass**, **Reanimated/Gesture Handler**, **Redux**, **Zustand**, **Apollo**;
+  - Bibiotecas: 
+    - JS:  **React.js**, **Next.js**, **Vue.js**, **Remix js**
+    - UI:  **Styled Components**, **Native Base**, **Tailwind CSS**, **Chakra UI**, **Sass**
+    - Native:  **React Native**, **Reanimated**, **Gesture Handler**
+    - State:  **Redux**, **Zustand**, **Apollo**;
   - Outros: **Node.js**, **Git**, **GraphQL**
 
 - LinkedIn: [Andrew Magalhães](https://www.linkedin.com/in/andrew-magalh%C3%A3es-2b3781210/)
