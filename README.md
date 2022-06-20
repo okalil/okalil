@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - Tecnologias que utilizo:
   - Linguagens: **JavaScript**, **TypeScript**, **CSS**, **HTML** (secundárias: **Java**, **Swift**, **Python**);
-  - Bibiotecas: 
+  - Bibliotecas: 
     - JS:  **React.js**, **Next.js**, **Vue.js**, **Remix js**
     - UI:  **Styled Components**, **Native Base**, **Tailwind CSS**, **Chakra UI**, **Sass**
     - Native:  **React Native**, **Reanimated**, **Gesture Handler**
