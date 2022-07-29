@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - Meu nome é Andrew Kalil, atuo com diversas tecnologias do Desenvolvimento Web e Mobile, e Redes de Computadores, e estou sempre em busca de novos desafios!
 
 - Tecnologias que utilizo:
-  - Linguagens: **JavaScript**, **TypeScript**, **CSS**, **HTML** (secundárias: **Java**, **Swift**, **Python**);
+  - Linguagens: **JavaScript**, **TypeScript**, **Kotlin**, **CSS**, **HTML** (secundárias: **Java**, **Swift**, **Python**);
   - Bibliotecas: 
     - JS:  **React.js**, **Next.js**, **Vue.js**, **Remix js**
     - UI:  **Styled Components**, **Native Base**, **Tailwind CSS**, **Chakra UI**, **Sass**
