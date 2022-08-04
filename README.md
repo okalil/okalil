@@ -1,4 +1,4 @@
-### Oi, pessoal! 👋
+### Hey! 👋
 
 <!--
 **okalil/okalil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Meu nome é Andrew Kalil, atuo com diversas tecnologias do Desenvolvimento Web e Mobile, e Redes de Computadores, e estou sempre em busca de novos desafios!
+- My name is Andrew Kalil, I work with the different technologies of Web and Mobile Development, and I'm always looking for new challenges!
 
-- Tecnologias que utilizo:
-  - Linguagens: **JavaScript**, **TypeScript**, **Kotlin**, **CSS**, **HTML** (secundárias: **Java**, **Swift**, **Python**);
-  - Bibliotecas: 
-    - JS:  **React.js**, **Next.js**, **Vue.js**, **Remix js**
-    - UI:  **Styled Components**, **Native Base**, **Tailwind CSS**, **Chakra UI**, **Sass**
-    - Native:  **React Native**, **Reanimated**, **Gesture Handler**
-    - State:  **Redux**, **Zustand**, **Apollo**;
-  - Outros: **Node.js**, **Git**, **GraphQL**
+- Techs:
+    - Languages: **JavaScript**, **TypeScript**, **Kotlin**, **CSS**, **HTML** (Minor: **Java**, **Swift**, **Python**);
+    - Libraries:
+      - JS: **React.js**, **Next.js**, **Vue.js**, **Remix js**
+      - UI: **Styled Components**, **Native Base**, **Tailwind CSS**, **Chakra UI**, **Sass**
+      - Native: **React Native**, **Reanimated**, **Gesture Handler**, **Room**;
+      - Status: **Redux**, **Zustand**, **Apollo**;
+    - Others: **Node.js**, **Git**, **GraphQL**
 
 - LinkedIn: [Andrew Magalhães](https://www.linkedin.com/in/andrew-magalh%C3%A3es-2b3781210/)
 
