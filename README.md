@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     - Libraries:
       - JS: **React.js**, **Next.js**, **Vue.js**, **Remix js**
       - UI: **Styled Components**, **Native Base**, **Tailwind CSS**, **Chakra UI**, **Sass**
-      - Native: **React Native**, **Reanimated**, **Gesture Handler**, **Compose*, *Room**;
+      - Native: **React Native**, **Reanimated**, **Gesture Handler**, **Compose**, **Room**;
       - Status: **Redux**, **Zustand**, **Apollo**;
     - Others: **Node.js**, **Git**, **GraphQL**
 
