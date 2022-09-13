@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 - Techs:
     - Languages: **JavaScript**, **TypeScript**, **Kotlin**, **CSS**, **HTML** (Minor: **Java**, **Swift**, **Python**);
     - Libraries:
-      - JS: **React.js**, **Next.js**, **Vue.js**, **Remix js**
-      - UI: **Styled Components**, **Native Base**, **Tailwind CSS**, **Chakra UI**, **Sass**
-      - Native: **React Native**, **Reanimated**, **Gesture Handler**, **Compose**, **Room**;
-      - Status: **Redux**, **Zustand**, **Apollo**;
+      **React.js**, **Next.js**, **Vue.js**, **Remix js**, <br>
+      **Styled Components**, **Native Base**, **Tailwind CSS**, **Chakra UI**, **Sass**, <br>
+      **React Native**, **Reanimated**, **Gesture Handler**, **Compose**, **Room**, <br>
+      **Redux**, **Zustand**, **Apollo**;
     - Others: **Node.js**, **Git**, **GraphQL**
 
 - LinkedIn: [Andrew Magalhães](https://www.linkedin.com/in/andrew-magalh%C3%A3es-2b3781210/)
