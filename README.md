@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 - LinkedIn: [Andrew Magalhães](https://www.linkedin.com/in/andrew-magalh%C3%A3es-2b3781210/)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okalil&layout=compact&theme=dark&custom_title=Linguagens mais usadas&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okalil&layout=compact&theme=dark&custom_title=Linguagens%20mais%20usadas&hide_border=true" />
