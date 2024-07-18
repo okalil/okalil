@@ -15,17 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- My name is Andrew Kalil, I work with the different technologies of Web and Mobile Development, and I'm always looking for new challenges!
+My name is Andrew Kalil, I work with the different technologies of Web and Mobile Development, and I'm always looking for new challenges!
 
-- Techs:
-    - Languages: **JavaScript**, **TypeScript**, **Kotlin**, **CSS**, **HTML** (Minor: **Java**, **Swift**, **Python**);
-    - Libraries:
-      **React.js**, **Next.js**, **Vue.js**, **Remix js**, <br>
-      **Styled Components**, **Native Base**, **Tailwind CSS**, **Chakra UI**, **Sass**, <br>
-      **React Native**, **Reanimated**, **Gesture Handler**, **Compose**, **Room**, <br>
-      **Redux**, **Zustand**, **Apollo**;
-    - Others: **Node.js**, **Git**, **GraphQL**
+Things I have experience with:
+- Developing web and mobile systems in the most diverse segments, from management platforms to automation systems
+- Technologies such as React, Next.js, React Native, Expo, Node.js and Java.
+- Variety of styling strategies like CSS, styled components and Tailwind CSS, and state management tools like Redux and React Query.
+- Architecture, implementation and development of projects from conception to delivery to clients.
+- Complete process of publishing and updating applications for mobile devices for the main stores, Play Store and App Store, and in the internationalization (i18n) of applications.
+<br>
 
-- LinkedIn: [Andrew Magalhães](https://www.linkedin.com/in/andrew-magalh%C3%A3es-2b3781210/)
+LinkedIn: [Andrew Magalhães](https://www.linkedin.com/in/andrew-magalh%C3%A3es-2b3781210/)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okalil&layout=compact&theme=dark&custom_title=Linguagens%20mais%20usadas&hide_border=true" />
